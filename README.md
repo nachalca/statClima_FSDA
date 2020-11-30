@@ -26,5 +26,5 @@ Este taller fue realizado en conjunto entre el Instituto de Estadística de la F
 + [Página personal, Ignacio Alvarez-Castro](https://nachalca.netlify.app)
 
 + [CVuy,Ignacio Alvarez-Castro](https://exportcvuy.anii.org.uy/cv/?f8ed8bf31a8041cecdc5153aa486b483b9dbc92eeec87a4f1008faea2f447fa1523b92127db5289ff92636af02a3d61fe89cfcc30ee8fbff78e0a87462d69388)
-+ [*Presentación*](https://github.com/nachalca/taller_statClima_FSDA/Presentacion) 
++ [*Presentación*](https://github.com/nachalca/taller_statClima_FSDA/Presentaciones/Alvarez_DeMello.pdf) 
 
