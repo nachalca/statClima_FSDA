@@ -1,6 +1,6 @@
 
 
-# odelado de temperaturas extremas en Uruguay
+# Modelado de temperaturas extremas en Uruguay
 
 Este repositorio contiene los principales resultados del proyecto *Modelado de temperaturas extremas en Uruguay* financiado por el Fondo Sectorial a partir de datos 2017 ANII (FSDA_1_2017_1_144032). Responsable del proyecto: [Ignacio Alverez-Castro](https://nachalca.netlify.app)).
 
