@@ -23,6 +23,16 @@ Un reporte más detallado de la metodología utilizada se presenta en:
 </p>
 </details>
 
+### Datos: Series completas de temperatura
+
+<details><summary>Base de datos </summary>
+<p>
+
+[*Series*](https://github.com/nachalca/statClima_FSDA/tree/master/series_completas)
+
+</p>
+</details>
+
 
 ### Taller: "Métodos Estadísticos para el Análisis de Datos Meteorológicos"
 
