@@ -20,6 +20,11 @@ Los códigos de `R` se pueden encontrar en :
 Un reporte más detallado de la metodología utilizada se presenta en: 
 [*Documento*](https://github.com/nachalca/taller_statClima_FSDA/blob/master/Doc_trabajo/ddt_fsdclima.pdf)
 
+Definición y caracterización de olas de temperatura: [*Olas*](https://github.com/nachalca/taller_statClima_FSDA/blob/master/Doc_trabajo/inumet_feb19.pdf)
+
+Poster para Jornadas de Sociedad Uruguaya de Estadística: 
+[*Pposter*](https://github.com/nachalca/taller_statClima_FSDA/blob/master/Doc_trabajo/sue_poster.pdf)
+
 </p>
 </details>
 
