@@ -25,14 +25,21 @@ Un reporte más detallado de la metodología utilizada se presenta en:
 
 ### Datos: Series completas de temperatura
 
+Series diarias de temperatura imputadas para 11 estaciones de Uruugay.  
+
 <details><summary>Base de datos </summary>
 <p>
+Variables: 
+- location: Estación meteorológica (caracter) 
+- year: Año, de 1950 y 2013 (entero)
+- day2: Día del año, de 1 a 366 (numérica)
+- tipo: Indica si corresponde a temperatura mínima o máxima (caracter)
+- temp: valor de la señal de temperatura estimada
 
-[*Series*](https://github.com/nachalca/statClima_FSDA/tree/master/series_completas)
+Los datos se encuentran en: [*Series*](https://github.com/nachalca/statClima_FSDA/tree/master/series_completas)
 
 </p>
 </details>
-
 
 ### Taller: "Métodos Estadísticos para el Análisis de Datos Meteorológicos"
 
