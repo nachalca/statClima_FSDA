@@ -4,7 +4,7 @@
 
 Este repositorio contiene los principales resultados del proyecto *Modelado de temperaturas extremas en Uruguay* financiado por el Fondo Sectorial a partir de datos 2017 ANII (FSDA_1_2017_1_144032). Responsable del proyecto: [Ignacio Alverez-Castro](https://nachalca.netlify.app)).
 
-Una aplicación interactiva con resultados se presenta [IESTA-INUMET](http://164.73.246.4:3838/IESTA-INUMET/). 
+Una aplicación interactiva con resultados se presenta [IESTA-INUMET](http://164.73.240.157:3838/IESTA-INUMET/). 
 
 
 ### Métodos Estadísticos
